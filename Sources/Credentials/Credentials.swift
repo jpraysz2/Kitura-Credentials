@@ -14,7 +14,7 @@
  * limitations under the License.
  **/
 
-import Kitura
+import KituraJP
 import KituraNet
 import KituraSession
 import LoggerAPI
